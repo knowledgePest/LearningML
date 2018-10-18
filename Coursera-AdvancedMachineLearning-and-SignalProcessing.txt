@@ -1,6 +1,10 @@
 https://www.coursera.org/learn/advanced-machine-learning-signal-processing
 
 18 October 2018
+
+  # Unsupervised Learning Module
+  - Hierarchical Clustering
+  
   # Watching the lectures on Wavelet Tranforms
   - Highlights the limitations of Fourier Transforms in the case of non-stationary signals
   - Demos this pipeline:
