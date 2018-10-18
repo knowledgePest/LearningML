@@ -11,3 +11,4 @@ https://www.coursera.org/learn/advanced-machine-learning-signal-processing
     -- Signal --> CWT --> Coefficients --> PCA --> SVM/Classifier
   # Thoughts:
   - How could I use a similar pipeline on the datasets I have?
+  - This course uses Apache SparkML on IBM Watson, I wonder how I could setup ... (see the Setup lecture of this course)
