@@ -5,4 +5,5 @@ https://www.coursera.org/learn/advanced-machine-learning-signal-processing
   - Highlights the limitations of Fourier Transforms in the case of non-stationary signals
   - Demos this pipeline:
     -- Signal --> CWT --> Coefficients --> PCA --> SVM/Classifier
-  - 
+  # Thoughts:
+  - How could I use a similar pipeline on the datasets I have?
